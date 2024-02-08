@@ -22,7 +22,7 @@ setup(
         "Intended Audience :: Science/Research",
         "Programming Language :: Python :: 3",
     ],
-    author="Jonas Cremer, Naima Sharaf, Sharon Long",
+    author="Sharon Long, Naima Sharaf, Jonas Cremer",
     author_email="jbcremer@stanford.edu",
     packages=find_packages(
         exclude=('docs', 'source', 'doc', 'sandbox', 'dev',)),
