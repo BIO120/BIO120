@@ -15,7 +15,7 @@ setup(
     long_description=README,
     description="Laboratory class in advanced microbiology",
     long_description_content_type='text/markdown',
-    url="https://github.com/gchure/course_sphinx_template",
+    url="https://github.com/BIO120/bio120",
     license="GPLv3",
     classifiers=[
         "Development Status :: 4 - Beta",
