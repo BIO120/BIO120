@@ -1,0 +1,9 @@
+*.DS_*tore
+*.log
+*build/
+*.doc*
+*.bbl
+*.aux
+*.swp
+*.pyc*
+*checkpoints*
