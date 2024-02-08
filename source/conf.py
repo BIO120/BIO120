@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Sphinx Course Template'
-copyright = '2024, Griffin Chure'
-author = 'Griffin Chure'
+project = 'BIO120'
+copyright = '2024, Sharon Long, Naima Sharaf, Jonas Cremer'
+author = 'Sharon Long, Naima Sharaf, Jonas Cremer'
 release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
