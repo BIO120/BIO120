@@ -5,6 +5,13 @@
 Syllabus
 --------
 
+Time & Location
+================
+Tuesday and Thursday 1:30-4:20 pm for our main lab sessions.
+Our discussion (and sometimes extra lab time) will be Friday at 1:30-2:30 pm
+All class meetings are in the Sapp Building, room 223. 
+
+
 Outline
 =======
 To survive, grow, and reproduce, organisms coordinate different molecular processes so they can use available resources and cope with environmental conditions. This laboratory course explores molecular and cellular integration in bacteria. Experiments include the quantification of growth, homologous over expression of proteins, and genetic and growth control of phases and bacteria.These "wet lab" approaches will be combined with "dry lab" approaches to analyze experimental findings and explore further the link between molecular processes and cell physiology.
@@ -33,7 +40,7 @@ Course outline
 A more detailed outine is provided in the following table.
 
 .. list-table:: Content
-    :widths: 5, 5, 10, 40, 20
+    :widths: 3, 3, 10, 20, 10
     :header-rows: 1
 
     * - Week
