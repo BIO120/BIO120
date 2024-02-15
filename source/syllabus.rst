@@ -77,7 +77,7 @@ A more detailed outine is provided in the following table.
       - 4/12/2024
       - Statistics of counting
       - Sharon Long, Jonas Cremer
-  
+
     * - 3
       - Tue
       - 4/16/2024
@@ -94,8 +94,8 @@ A more detailed outine is provided in the following table.
       - Fri
       - 4/19/2024
       - Data analysis
-	  - Sharon Long, Mathis Leblanc, Jonas Cremer
-  
+      - Sharon Long, Mathis Leblanc, Jonas Cremer
+
     * - 4
       - Tue
       - 4/23/2024
@@ -112,12 +112,12 @@ A more detailed outine is provided in the following table.
       - Fri
       - 4/26/2024
       - Data analysis
-	  - Jonas Cremer
+      - Jonas Cremer
   
     * - 5
       - Tue
       - 4/30/2024
-      - Growth and ressource allocation. Measurement of RNA content
+      - Growth and resource allocation. Measurement of RNA content
       - Jonas Cremer
   
     * - 5
@@ -125,7 +125,7 @@ A more detailed outine is provided in the following table.
       - 5/2/2024
       - Enforcing protein synthesis
       - Jonas Cremer
-  
+
     * - 5
       - Fri
       - 5/3/2024
@@ -209,6 +209,3 @@ A more detailed outine is provided in the following table.
       - 6/4/2024
       - Final class. Project presentation
       - All
-
-	
-	
