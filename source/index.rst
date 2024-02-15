@@ -4,25 +4,22 @@
 About
 =====
 
-Welcome! This website corresponds to a template for building academic course 
-websites using `Sphinx <https://www.sphinx-doc.org/en/master/>`_, a documentation 
-generator using Python. Many of our course materials are developed using Jupyter 
-notebooks, making documentation generation a great way to make them searchable without 
-worrying about configuring HTML output and integration with other hosting solutions.
+Welcome to the website of BIO120: Integrative and Experimental Microbiology (spring quarter 2024 edition)! 
 
+In this laboratory course, we explore the fascinating world of microbial cells through the lenses of experiments and theory. Experiments include the quantification of microbial growth and phage counts, the tracking of phage infection dynamics, and the homologous overexpression of proteins. Methods include classical plating and plaque assays, genetic manipulations, protein extraction, and mass-spec analysis. "Dry labs" accompany bench work to promote the data analysis and further explore the link between molecular processes and microbial phenotypes. 
+
+More details on course content and syllabus are provided here. 
 
 .. The following lines are necessary in RST to populate the side bar. In short,
    you should have each category
 
-
 .. toctree::
    :maxdepth: 1
-   :caption: Lessons
+   :caption: Materials
    :hidden:
    
    lessons/lesson_1.ipynb
    lessons/lesson_2.ipynb
-
 
 .. toctree::
    :maxdepth: 1
@@ -30,12 +27,6 @@ worrying about configuring HTML output and integration with other hosting soluti
 
    syllabus
    policies
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Homeworks
-
-   problem_sets/problem_set_1
 
 
    
