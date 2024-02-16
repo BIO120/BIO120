@@ -34,14 +34,14 @@ html_theme_options = {
 }
 
 html_css_files = ['css/custom.css']
-# html_theme_options = {
-#     "logo": {
-#         "image_dark": '_static/logo_horizontal-02.svg',
-#         "image_light": '_static/logo_horizontal-01.svg',
-#     } ,
-#     "navbar_end": ["navbar-icon-links"]
-#     }
-# html_context = {"default_mode": "light"}
+html_theme_options = {
+     "logo": {
+         "image_dark": '_static/bio120_logo.png',
+         "image_light": '_static/bio120_logo.png',
+     } #,
+     #"navbar_end": ["navbar-icon-links"]
+     }
+html_context = {"default_mode": "light"}
 
 
 # html_css_files = [
