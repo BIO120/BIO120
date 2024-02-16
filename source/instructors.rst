@@ -2,7 +2,7 @@ Instructors
 ----------------
 
 .. note::
-    Office hours 
+    Office hours are not final and will be updated before start of the class. 
 
 Faculty
 ===========

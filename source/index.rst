@@ -39,7 +39,6 @@ Palo Alto, February 2024
 .. toctree::
    :maxdepth: 1
    :caption: Gallery
-   :hidden:
     
    materials/gallery.ipynb
 
