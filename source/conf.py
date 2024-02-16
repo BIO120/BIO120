@@ -27,7 +27,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 # html_logo = "_static/logo_horizontal-02.png"
 html_theme_options = {
-    "logo_only": False,
+    "logo_only": True,
     "sticky_navigation": True,
     "collapse_navigation": True,
     "style_nav_header_background": "#0f4d70",

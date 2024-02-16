@@ -40,7 +40,7 @@ Course outline
 A more detailed outine is provided in the following table.
 
 .. list-table:: Content
-    :widths: 5%, 5%, 15%, 60%, 15%
+    :widths: 5, 5, 15, 60, 15
     :header-rows: 1
 
     * - Week
