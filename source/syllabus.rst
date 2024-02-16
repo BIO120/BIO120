@@ -208,7 +208,7 @@ A more detailed outine is provided in the following table.
     * - 9
       - Fri
       - 5/31/2024
-      - You get the idea 
+      - Group project phase
       - All
 
     * - 10
