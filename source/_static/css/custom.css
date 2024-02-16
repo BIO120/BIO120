@@ -11,3 +11,11 @@ h4 {
     font-family: Lato, Roboto;
     font-weight: 700;
 }
+
+.wy-side-nav-search, .wy-nav-top {
+      background: #0f4d70;
+    }
+    /* Sidebar */
+    .wy-nav-side {
+      background: #0f4d70;
+    }
