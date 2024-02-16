@@ -43,8 +43,9 @@ Palo Alto, February 2024
    materials/gallery.ipynb
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
    :caption: Acknowledgements
+   :hidden:
  
    acknowledgements
 
@@ -52,6 +53,7 @@ Palo Alto, February 2024
 .. toctree::
    :maxdepth: 0
    :caption: License
+   :hidden:
    
    license
 
