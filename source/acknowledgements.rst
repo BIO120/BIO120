@@ -1,0 +1,3 @@
+Acknowledgements
+----------------
+This laboratory course integrates many different elements and experimental approaches - only possible with the help of an amazing group of people. We particularly thank Nicole Bradon, Griselda Morales and the BIO  for their full-hearted support and commitment to keep this course running. We thank participating students who fully engaged in this class and provided great feedback, including Nathan Kim, Jedaiah Ngalande,  Aditri Patil, and Nathan Sala. The previous TAs Eli Costa and Ernst Pulido for helping to design and get experiments running when teaching this class the first time. Special thanks to Griffin Chure(https://gchure.github.io) for providing the course website template and illustrations. 

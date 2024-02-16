@@ -39,7 +39,7 @@ Course outline
 
 A more detailed outine is provided in the following table.
 
-.. list-table:: Content
+.. list-table:: Course schedule
     :widths: 5, 5, 15, 60, 15
     :header-rows: 1
 
