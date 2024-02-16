@@ -30,7 +30,7 @@ html_theme_options = {
     "logo_only": False,
     "sticky_navigation": True,
     "collapse_navigation": True,
-    "style_nav_header_background": "#3C3E47",
+    "style_nav_header_background": "#0f4d70",
 }
 
 html_logo = "_static/bio120_logo.png"

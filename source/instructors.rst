@@ -2,28 +2,27 @@ Instructors
 ----------------
 
 .. note::
-    We will update office hours.
+    Office hours 
 
 Faculty
 ===========
 
 .. list-table:: Content
-    :widths: 15,15,15
+    :widths: 15 15 15
     :header-rows: 0
-
-    * - | Sharon Long, PhD.
+    * - Sharon Long, PhD.
         | Gilbert Building 218
         | Office Hours: Thursday 11am-1pm and
         | by appointment strl@stanford.edu
-    * - | Naima Sharaf, PhD.
+    * - Naima Sharaf, PhD.
         | Gilbert Building 326A
         | Office Hours: Wednesday 9-10
         | am and by appointment ngsharaf@stanford.edu
-    * - | Jonas Cremer, PhD.
+    * - Jonas Cremer, PhD.
         | Clark Center 3rd floor, W3.3
         | Office Hours: Tuesday 12:30-1:30 pm
         | and by appointment jbcremer@stanford.edu
-	
+
 TA
 ===========
 

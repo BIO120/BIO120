@@ -3,11 +3,7 @@
 
 .. image:: images/bio120_summary.png
    :width: 800
-
-
-|
-|
-|
+   
 |
 
 
