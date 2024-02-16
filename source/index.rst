@@ -39,17 +39,19 @@ Palo Alto, February 2024
    instructors
 
 .. toctree::
-   :maxdepth: 0
-   :caption: Acknowledgements
+   :maxdepth: 1
    :hidden:
+   :caption: Acknowledgements
+
  
    acknowledgements
 
 
 .. toctree::
    :maxdepth: 0
-   :caption: License
    :hidden:
+   :caption: License
+
    
    license
 
