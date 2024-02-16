@@ -2,7 +2,14 @@
 ----
 
 .. image:: images/bio120_summary.png
-   :width: 600
+   :width: 800
+
+
+|
+|
+|
+|
+
 
 About
 =====
@@ -35,10 +42,10 @@ Palo Alto, February 2024
 
 .. toctree::
    :maxdepth: 1
-   :caption: Images
+   :caption: Gallery
    :hidden:
     
-   materials/images.ipynb
+   materials/gallery.ipynb
 
 
 

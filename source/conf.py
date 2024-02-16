@@ -33,6 +33,7 @@ html_theme_options = {
     "style_nav_header_background": "#3C3E47",
 }
 
+html_logo = "_static/bio120_logo.png"
 html_css_files = ['css/custom.css']
 html_theme_options = {
      "logo": {
