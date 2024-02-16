@@ -3,8 +3,6 @@
 
 .. image:: images/bio120_summary.png
    :width: 800
-   
-|
 
 
 About
@@ -26,6 +24,11 @@ Palo Alto, February 2024
    you should have each category
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Gallery
+   
+   materials/gallery.ipynb
 
 .. toctree::
    :maxdepth: 1
@@ -34,13 +37,6 @@ Palo Alto, February 2024
    syllabus
    policies
    instructors
-   
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Gallery
-    
-   materials/gallery.ipynb
 
 .. toctree::
    :maxdepth: 0

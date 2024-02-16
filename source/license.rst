@@ -5,7 +5,7 @@ If not stated otherwise here or next to the imagees or texts, all creative work 
 
 The following images have seperate licenses:
 - The logo image is based on images provided by Adobe Stock Images with the proper license for webcontent use.
-- The course flyer image contains is based on images provided by Adobe Stock Images  with the proper license for webcontent use as well as Griffin Chure [Griffin Chure](https://gchure.github.io).
+- The course flyer image (on the startsite) is based on images provided by the Adobe Stock Images  with the proper license for webcontent use, as well images provided by Griffin Chure [Griffin Chure](https://gchure.github.io).
 
 
    
