@@ -2,10 +2,15 @@ Instructors
 ----------------
 
 .. note::
-    Office hours are not final and will be updated before start of the class. 
+    Office hours are not final and will likely be updated before start of the class. 
 
 Faculty
 ===========
+
+| Jonas Cremer, PhD.
+| Clark Center 3rd floor, W3.3
+| Office Hours: Tuesday 12:30-1:30 pm and by appointment
+| jbcremer@stanford.edu
 
 | Sharon Long, PhD.
 | Gilbert Building 218
@@ -17,16 +22,12 @@ Faculty
 | Office Hours: Wednesday 9-10am and by appointment
 | ngsharaf@stanford.edu
 
-| Jonas Cremer, PhD.
-| Clark Center 3rd floor, W3.3
-| Office Hours: Tuesday 12:30-1:30 pm and by appointment
-| jbcremer@stanford.edu
-
 TA
 ===========
 
 | Mathis Leblanc
 | Clark Center 3rd floor, W3.3
+| Office Houses: To be determined
 | mleblan6@stanford.edu
 
 

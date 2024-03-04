@@ -14,7 +14,7 @@ All class meetings are in the Sapp Building, room 223.
 
 Outline
 =======
-To survive, grow, and reproduce, organisms coordinate different molecular processes so they can use available resources and cope with environmental conditions. This laboratory course explores molecular and cellular integration in bacteria. Experiments include the quantification of growth, homologous over expression of proteins, and genetic and growth control of phases and bacteria.These "wet lab" approaches will be combined with "dry lab" approaches to analyze experimental findings and explore further the link between molecular processes and cell physiology.
+To survive, grow, and reproduce, organisms coordinate different molecular processes so they can use available resources and cope with environmental conditions. This laboratory course explores molecular and cellular integration in bacteria. Experiments include the quantification of growth, homologous overexpression of proteins, and genetic and growth control of phases and bacteria. These "wet lab" approaches will be combined with "dry lab" approaches to analyze experimental findings and explore further the link between molecular processes and cell physiology.
 
 
 Prerequisite
