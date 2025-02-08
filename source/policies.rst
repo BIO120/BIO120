@@ -1,42 +1,7 @@
 Course Policies
 ----------------
 
-Grading
-==============
-Grading: Grading will be based on a point system. In total, 250 points can be obtained, 25 per week. Each week, 5 points will be given for class attendance and arrival on time (2 points per lab and 1 point for the discussion class). 20 further points will be given each week for assignments and participation. The assignments are posted via Canvas with the points for each assignment stated. There is a 10% penalty per day for late submissions. There are no tests. 
-
-.. list-table:: Grading
-    :widths: 20,40,40
-    :header-rows: 1
-	
-    * - Grade
-      - Percentage of points
-      - Points
-    * - A
-      - >90%
-      - >226
-    * - A-
-      - >88-90%
-      - 221-225
-    * - B+
-      - 86-88%
-      - 215-220
-    * - B
-      - 80-86%
-      - 200-214
-    * - B-
-      - 78-80%
-      - 195-199
-    * - C
-      - 70-78%
-      - 175-194
-    * - D
-      - 60-70%
-      - 150-174
-    * - no credit
-      - <60%
-      - <150
-
+Please consider the official syllabus for final details.  
 
 Assignment
 ==============
@@ -45,7 +10,7 @@ Assignments include pre-lab and post-lab assignments. In general, assignments wi
 
 Enrollment
 ==============
-With seats (and bench space) being limited, preference is given to students strictly fulfilling all course requirements. To enroll via Canvas, you thus need a permission number from the instructors. To get this number and show that you fulfill all course requirements, please complete the google form, https://forms.gle/etRHRhhaRJxUMyNW9 . We will regularly monitor form submissions and provide enrollment codes.
+With seats (and bench space) being limited, preference is given to students strictly fulfilling all course requirements. To enroll via Canvas, you thus need a permission number from the instructors.
 
 
 Absence and Make-up policy

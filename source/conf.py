@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'BIO120'
-copyright = '2024, Sharon Long, Naima Sharaf, Jonas Cremer'
+copyright = '2025, Sharon Long, Naima Sharaf, Jonas Cremer'
 author = 'Sharon Long, Naima Sharaf, Jonas Cremer'
 release = '0.0.1'
 

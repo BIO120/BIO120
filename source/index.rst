@@ -14,13 +14,12 @@ You are reading the spring quarter 2025 edition.
 
 In this laboratory course, we explore the fascinating world of microbial cells and phages through the lenses of experiments and theory. Experiments include quantification of microbial growth and phage infection dynamics, as well as homologous overexpression and molecular structure investigations of proteins. Methods include classical plating and plaque assays, plasmid engineering, protein extraction, and mass-spec analysis. "Dry labs" accompany bench work to promote data analysis and further explore the link between molecular processes and microbial phenotypes.
 
-"Experiments include quantification of microbial growth and phage infection dynamics, plasmid engineering, and homologous expression of proteins."
 
 A more detailed overview of course content and syllabus is provided on this website.
 
 Naima Sharaf, Jonas Cremer, Sharon Long (Faculuty), and Hye Won Kim (TA)
 
-February 2024
+February 2025
 
 .. The following lines are necessary in RST to populate the side bar. In short,
    you should have each category
@@ -34,7 +33,7 @@ February 2024
 
 .. toctree::
    :maxdepth: 1
-   :caption: Syllabus & Policies
+   :caption: Outline & Policies
 
    syllabus
    policies
