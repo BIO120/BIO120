@@ -1,7 +1,8 @@
+.. note::
+    The following provides an overview. Please consider the syllabus for final details.
+
 Course Policies
 ----------------
-
-Please consider the official syllabus for final details.  
 
 Assignment
 ==============
