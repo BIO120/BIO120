@@ -25,9 +25,9 @@ Faculty
 TA
 ===========
 
-| Mathis Leblanc
-| Clark Center 3rd floor, W3.3
+| Hye Won Kim
+| Location to be determined
 | Office Houses: To be determined
-| mleblan6@stanford.edu
+| hyewon@stanford.edu
 
 
