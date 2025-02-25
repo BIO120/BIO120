@@ -14,8 +14,8 @@ Faculty
 
 | Sharon Long, PhD.
 | Gilbert Building 218
-| Office Hours: Thursday 11am-1pm and by appointment
-| strl@stanford.edu
+| Office Hours: Friday 10am-noon and by appointment
+| srl@stanford.edu
 
 | Naima Sharaf, PhD.
 | Gilbert Building 326A
@@ -27,7 +27,7 @@ TA
 
 | Hye Won Kim
 | Location to be determined
-| Office Houses: To be determined
+| Office Hours: To be determined
 | hyewon@stanford.edu
 
 
